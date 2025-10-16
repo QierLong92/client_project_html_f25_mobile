@@ -1,0 +1,64 @@
+
+nav li{
+    margin-right: 24px;
+}
+
+nav a{
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+body{
+  font-size: 16px;
+  line-height: 1.15;
+  margin: 0;
+  padding: 0;
+}
+
+h1{
+  font-family: "Palatino Linotype";
+  font-size: 24px;
+  text-align: left;
+  line-height: 1.125em;
+  padding: 24px 16px 0 16px
+}
+
+section{
+  padding: 20px 16px;
+  font-family: Helvetica;
+}
+
+h2{
+  font-size: 20px;
+  line-height: 1.25em;
+  color: #2F65A7;
+  margin-bottom: 20px;
+}
+
+h3{
+    font-size: 16px;
+    line-height: 1.25em;
+    color: #000000;
+}
+
+p{
+    margin-bottom: 20px;
+    line-height: 1.5em;
+}
+
+main ul, main ol{
+    margin-bottom: 20px;
+    line-height: 1.5em;
+    list-style-position: inside;
+}
+
+footer a, footer{
+  font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+
+
